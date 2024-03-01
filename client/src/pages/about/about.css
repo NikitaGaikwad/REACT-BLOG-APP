@@ -1,0 +1,31 @@
+.container1{
+    height: 50px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    padding-top: 5px;
+    
+}
+
+.container2{
+    margin-top: 80px;
+    /* background-color: rgb(245, 244, 242); */
+    
+    margin-left: 400px;
+}
+.container2>h1{
+      font-family: "Mukta", sans-serif;
+      font-style: italic;
+      width: 450px;
+      color: brown;
+     
+}
+.container2>p{
+    margin-top: 20px;
+    font-family: "Mukta", sans-serif;
+    background-color: white;
+    width: 380px;
+    text-align: center;
+}
